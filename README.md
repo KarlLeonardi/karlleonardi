@@ -1,17 +1,17 @@
 ### Hi there 👋
-- 🔭 I’m currently working on:
+- 🔭 I’m currently working on: <br>
 ==> ajknh / PastramiHunter
-- 🌱 I’m currently learning:
+- 🌱 I’m currently learning: <br>
 ==> Python, Pygame
-- 👯 I’m looking to collaborate on:
+- 👯 I’m looking to collaborate on: <br>
 ==> 
-- 🤔 I’m looking for help with:
+- 🤔 I’m looking for help with: <br>
 ==>
-- 💬 Ask me about:
+- 💬 Ask me about: <br>
 ==> 
-- 📫 How to reach me:
+- 📫 How to reach me: <br>
 ==> 
-- ⚡ Fun fact:
+- ⚡ Fun fact: <br>
 ==> I code in JS-HTML-CSS, python, and pygame!
 
 <!--
