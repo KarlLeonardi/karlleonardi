@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on: <br>
-⇒ ajknh / PastramiHunter
+⇒ not much
 - 🌱 I’m currently learning: <br>
 ⇒ Python, Pygame
 - 👯 I’m looking to collaborate on: <br>
